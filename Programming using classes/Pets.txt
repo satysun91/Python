@@ -1,0 +1,4 @@
+Name,Type,Colour
+Alfie,Dog,Brown and white
+Neo,Cat,Black and white
+Annie,Cat,Tortoiseshell
